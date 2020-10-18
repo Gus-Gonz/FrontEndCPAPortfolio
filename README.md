@@ -1,4 +1,4 @@
-# FrontEndCPAPortfolio
+# Front End CPA Portfolio
 
 A simple HTML , CSS (Bootstrap) and JS Landing page for my CPA Generator. 
 

@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-from config_db.config_mongo import mongo_client_details ,mongo_cluster , mongo_colection
+from config.config_mongo import mongo_client_details ,mongo_cluster , mongo_colection
 
 # --------------------------------REALIZAR CONECCION-------------------------------#
 Cluster = MongoClient(mongo_client_details)
@@ -8,7 +8,7 @@ collection = db[mongo_colection]
 
 # --------------------------------AGREGAR A LA DB-------------------------------#
 
-def Add_DB(Combo, Tipo):
+def Add_DB(Combo, Tipo):git
     for i in range(len(Combo)):
         USER = Combo[i].split(':')[0]
         PASS = Combo[i].split(':')[1]

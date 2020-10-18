@@ -20,5 +20,10 @@ Token to be submited as a test > 3C5U8AMSLDBACPB53PF2 .
 
 I used Ogads.com as my main CPA network and with free traffic we manege to get a group of arrounr 600 loyal users , archiving an stable $50-$70 per month (https://imgur.com/a/muQrTzE).
 
+
+# Before deployment
+
 In case you want to use this landing page for your own use , you will need to add your own content locker and you will need uncomment the line 160 of the templates/hello2.html , this will call the content locker after you add it. 
+
+This Business model host a DB using the online and free service Mongodb.com , there for you will need to provide the Client details , the cluster name and the colection name in the config/config_mongo.py before hosting it , for more info about the functionality of MongoDB use their official documentation https://docs.mongodb.com/
 

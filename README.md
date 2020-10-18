@@ -4,7 +4,7 @@ A simple HTML , CSS (Bootstrap) and JS Landing page for my CPA Generator.
 
 This is the front end of a CPA business model I came up a couple of month ago , the main idea is to Keep a Group of loyal users using the popular platform Didcord.com , in this platform we will have a discord bot that it will generate a Token which is later put  in this website.
 
-Afyer the animation, a CPA offer should pop up and block the ussers to get the Account they came looking for unless they complete 1 Ad.
+After the animation, a CPA offer should pop up and block the ussers to get the Account they came looking for unless they complete 1 Ad.
 
 # The Discord Bot
 
